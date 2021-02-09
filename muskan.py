@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
-# Originally Written By:Muhammad Hamza
+# Originally Written By: shadow-hacker
 # Source : Python2"
 # Donot Recode It. 
 
